@@ -1,0 +1,47 @@
+body {
+  width: auto;
+  height: auto;
+  background-color: rgba(33, 30, 30, 0.851);
+}
+
+.title {
+  margin-top: 40px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 2rem;
+  margin-bottom: 100px;
+}
+
+.acz {
+  color: rgb(8, 169, 61);
+}
+
+.turistic-points {
+  max-width: 900px;
+  text-align: center;
+  color: #ffffff;
+  margin: auto;
+}
+
+.image-card {
+  margin: auto;
+  max-width: 900px;
+  margin-bottom: 20px;
+  font-size: 26px;
+}
+
+.image-description {
+  font-size: 16px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+}
+
+.img {
+  object-fit: fill;
+  width: 900px;
+}
